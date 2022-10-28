@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "id": "f9aaab91-b08a-4c69-8b3e-effd3d770dd5",
+      "username": "gokhan",
+      "password": "$2b$10$MXp/WxFciBhb1USNWa5s9OFl1yz.iTpPF5QedXaVUGivNzDy8Qksu",
+      "createdAt": "2022-10-28T12:12:42.558Z",
+      "updatedAt": "2022-10-28T12:12:42.558Z"
+    }
+  ]
+}

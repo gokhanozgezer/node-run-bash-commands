@@ -1,0 +1,18 @@
+{
+	"compilerOptions": {
+		"baseUrl": ".",
+		"paths": {
+				"#app": ["./src/app.js"],
+				"#controllers/*": ["./src/controllers/*.js"],
+				"#routes": ["./src/routes/index.js"],
+				"#routes/*": ["./src/routes/*.js"],
+                "#config": ["./src/config/index.js"],
+				"#config/*": ["./src/config/*.js"],
+                "#utils": ["./src/utils/index.js"],
+				"#utils/*": ["./src/utils/*.js"],
+                "#middleware": ["./src/middleware/index.js"],
+				"#middleware/*": ["./src/middleware/*.js"]
+		}
+	},
+	"exclude": ["node_modules"]
+}
